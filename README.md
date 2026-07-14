@@ -174,9 +174,9 @@ v1.1 (Versión con Herencia) ← ACTUAL
 ✅ Pruebas de funcionalidad
 
 👤 Autor
-Gerardo Vialvaia
+Gerardo Avila Avila
 
-GitHub: @geravialvaia-crypto
+GitHub: @geraavilaavila-crypto
 
 📚 Tecnologías Utilizadas
 https://img.shields.io/badge/Python-3.8+-blue.svg
